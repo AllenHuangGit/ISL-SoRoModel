@@ -13,9 +13,9 @@ Method
 
 Usage
 --------------------------
-- \model_training\train_lstm_pose2pres.ipynb: Train the LSTM model for the pose-to-pressure modeling mapping.
-- \trajectory_tracking\traj_ctrl_generation_LSTM.ipynb: Generate the trajectory control pressure value using the obtained LSTM model.
-- \trajectory_tracking\traj_verification.ipynb: Verify the trajectory predicting and controlling performance of the soft robotic arm.
+- `\model_training\train_lstm_pose2pres.ipynb`: Train the LSTM model for the pose-to-pressure modeling mapping.
+- `\trajectory_tracking\traj_ctrl_generation_LSTM.ipynb`: Generate the trajectory control pressure value using the obtained LSTM model.
+- `\trajectory_tracking\traj_verification.ipynb`: Verify the trajectory predicting and controlling performance of the soft robotic arm.
 
 Citation
 --------------------------
