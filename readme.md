@@ -1,6 +1,6 @@
 ISL-SoRoModel
 ==============================
-This repository contains the code for the paper "Foam-Embedded Soft Robotic Joint With Inverse Kinematic Modeling by Iterative Self-Improving Learning". The paper is published in IEEE Robotics and Automation Letters (RA-L) and will be presented at the International Conference on Intelligent Robots and Systems (IROS) 2024. 
+This repository contains the code of learning based modeling part for the paper "Foam-Embedded Soft Robotic Joint With Inverse Kinematic Modeling by Iterative Self-Improving Learning". The paper is published in IEEE Robotics and Automation Letters (RA-L) and will be presented at the International Conference on Intelligent Robots and Systems (IROS) 2024. 
 
 [Paper](https://ieeexplore.ieee.org/document/10381770)
 
