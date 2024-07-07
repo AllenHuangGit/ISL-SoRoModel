@@ -3,6 +3,7 @@ ISL-SoRoModel
 This repository contains the code of learning based modeling part for the paper "Foam-Embedded Soft Robotic Joint With Inverse Kinematic Modeling by Iterative Self-Improving Learning". The paper is published in IEEE Robotics and Automation Letters (RA-L) and will be presented at the International Conference on Intelligent Robots and Systems (IROS) 2024. 
 
 [Paper](https://ieeexplore.ieee.org/document/10381770)
+
 [Demonstration Video](https://youtu.be/oEcD_GIKh64?si=2kQ_8eO6EPR3WPrg)
 
 The code is written in Python and uses PyTorch for the neural network implementation.
